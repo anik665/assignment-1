@@ -210,3 +210,42 @@ main {
     width: 840px;
     height: 364.7px;
 }
+/*touch section*/
+.touch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+    width: 1140px;
+    height: 632px;
+}
+.touch-title{
+    font-size: 70px;
+    color: rgba(0, 0, 0, 1);
+    font-weight: bold;
+    word-wrap: break-word;
+}
+.touch-form form label{
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+
+}
+.touch-inp{
+    width: 497px;
+    height: 70px;
+    box-shadow: 0px 4px 4px 0 #D6DDED;
+    border-radius: 10px;
+    margin: 10px 0px;
+
+}
+.touch-tare{
+    width: 497px;
+    height: 135px;
+    margin: 10px 0px;
+    box-shadow: 0px 4px 4px 0 #D6DDED;
+    border-radius: 10px;
+}
+.touch-btn{
+    width: 497px;
+}
